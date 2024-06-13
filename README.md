@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mehmetcaloglu
 - 👀 I’m interested in Frontend Web and Mobile Apllication Technologies
-- 🌱 I’m currently learning React and React Native since april and working on Digital Production Team in Arcelik Dryer Machine Business.
-- 📫 How to reach me 'mehmetcaloglu@arcelik.com'
+- 🌱 I’m currently learning React and React Native since april and working on Digital Production Team in Arcelik (or Beko) Dryer Machine Business.
+- 📫 How to reach me 'mehmet.caloglu@beko.com'
 
 <!---
 mehmetcaloglu/mehmetcaloglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
